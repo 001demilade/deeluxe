@@ -7,7 +7,7 @@ export default function ImageStrip() {
     "/image/shedrack-salami-ecjx-h3aVAc-unsplash.jpg", 
     "/image/sunber-hair-51QIf24SvIY-unsplash.jpg", 
     "/image/obi-PvZDXRiEQ3g-unsplash.jpg", 
-    "/image/emmanuel-black-HJR96zgmsw0-unsplash.jpg"
+    "/image/sammy-swae-Stk-y3V7ck0-unsplash.jpg"
   ];
 
   return (
