@@ -5,9 +5,16 @@ import ProductCard from '../components/ProductCard';
 
 export default function ExtensionsPage() {
   const extensionProducts = [
-    { name: "Raw Virgin Bundles", price: "120.00", image: "/image/body-wave.jpg" },
-    { name: "HD Lace Frontal", price: "95.00", image: "/image/silk.jpeg" },
-    { name: "613 Blonde Extensions", price: "155.00", image: "/image/soft.jpeg" },
+    { name: "Raw Virgin Bundles", price: "300.00", image: "/image/natural black.jpeg" },
+    { name: "Wavy Hair Bundle", price: "105.00", image: "/image/close-up of a hand holding a bundle of wavy dark… (1).jpeg" },
+    { name: "10 Inches Vietnamese Bone Straight", price: "155.00", image: "/image/10 inches Vietnamese bone straight.jpeg" },
+    { name: "Deep Wave Human Hair Bundles", price: "150.00", image: "/image/Deep Wave Human Hair Bundles Natural Color - 16 16 16.jpeg" },
+    { name: "Big Curls, Bigger Attitude (Pixie Curls)", price: "220.00", image: "/image/Big curls, bigger attitude_ These 10A Brazilian….jpeg" },
+    { name: "Bouncy Extension", price: "200.00", image: "/image/🌟 Want hair that’s full of life and personality_….jpeg" },
+    { name: "Straight Hair Bundle", price: "145.00", image: "/image/🌿Get the premium quality human hair which you….jpeg" },
+    { name: "Brazilian Loose Wave Bundle", price: "165.00", image: "/image/Brazilian Loose Wave Bundle Deals - 12_14_16.jpeg" },
+    { name: "Vietnam Hair Bundle", price: "170.00", image: "/image/Vietnam.jpeg" },
+    { name: "Premium Human Hair Extensions", price: "285.00", image: "/image/We are confident in the quality of our products….jpeg" },
   ];
 
   return (

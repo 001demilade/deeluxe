@@ -8,7 +8,7 @@ export default function AboutPage() {
       <Navbar />
       <section className="pt-40 pb-24 px-6 max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
         <div className="relative aspect-[3/4] rounded-2xl overflow-hidden border border-white/10">
-           <img src="/image/emmanuel-black-k67WeAaMZAE-unsplash.jpg" className="object-cover w-full h-full grayscale" alt="Our Story" />
+           <img src="/image/13x6 Hd Lace Front Wig Bone Straight 13x4 Lace Frontal Human Hair Wig Black Wig Pre Plucked.jpeg" className="object-cover w-full h-full" alt="Our Story" />
         </div>
         <div className="space-y-8">
           <h2 className="text-white text-5xl font-light italic text-[#D1A2B5]">Our Story</h2>

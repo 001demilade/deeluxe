@@ -23,7 +23,7 @@ export default function ProductCard({ name, price, image }: Product) {
           {name}
         </h3>
         <p className="text-[#D1A2B5] text-[10px] md:text-[12px] font-semibold">
-          ${price}
+          N{price}
         </p>
       </div>
     </div>

@@ -2,12 +2,12 @@
 export default function ImageStrip() {
 
   const images = [
-    "/image/emmanuel-black-oit6br0iFro-unsplash.jpg", 
-    "/image/christian-agbede-4_eCQb1GA7I-unsplash.jpg", 
-    "/image/shedrack-salami-ecjx-h3aVAc-unsplash.jpg", 
-    "/image/sunber-hair-51QIf24SvIY-unsplash.jpg", 
-    "/image/obi-PvZDXRiEQ3g-unsplash.jpg", 
-    "/image/sammy-swae-Stk-y3V7ck0-unsplash.jpg"
+    "/image/13b6.jpeg", 
+    "/image/avail.jpeg", 
+    "/image/gorg.jpeg", 
+    "/image/Toffee Brown Mix Blonde Layered Cut Bob Glueless 5x5 Closure Lace Wig.jpeg", 
+    "/image/choco.jpeg", 
+    "/image/The perfect unit for autumn 🍂 simple yet classy….jpeg"
   ];
 
   return (

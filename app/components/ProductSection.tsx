@@ -6,27 +6,27 @@ export default function ProductGrid() {
   const newArrivals = [
   { 
     name: "Body Wave Bundle", 
-    price: "150.00", 
+    price: "150,000.00", 
     image: "/image/Elevate your look with our Raw Vietnamese Body….jpeg" 
   },
   { 
     name: "Deep Wave Lace", 
-    price: "185.00", 
+    price: "185,000.00", 
     image: "/image/tropicaldeepwave.jpeg" 
   },
   { 
     name: "Straight Silk Frontal", 
-    price: "120.00", 
+    price: "120,000.00", 
     image: "/image/silk.jpeg" 
   },
   { 
     name: "Kinky Curly Closure", 
-    price: "140.00", 
+    price: "25,000.00", 
     image: "/image/afrokinky.jpeg" 
   },
   { 
     name: "Blonde Bombshell Wig", 
-    price: "210.00", 
+    price: "710,000.00", 
     image: "/image/soft.jpeg" 
   },
 ];
@@ -34,27 +34,27 @@ export default function ProductGrid() {
 const bestSellers = [
   { 
     name: "Luxe Shine Serum", 
-    price: "25.00", 
+    price: "25,000.00", 
     image: "/image/shinecream.jpeg" 
   },
   { 
     name: "Edge Control Gel", 
-    price: "15.00", 
+    price: "15,000.00", 
     image: "/image/Strong Hold- Thick Edges - Edge Control.jpeg" 
   },
   { 
     name: "Silk Bonnet Set", 
-    price: "35.00", 
+    price: "35,000.00", 
     image: "/image/Minimalist Black Silk Sleep Collection _ Gold Accent Beauty Set.jpeg" 
   },
   { 
     name: "Detangling Brush", 
-    price: "12.00", 
+    price: "12,000.00", 
     image: "/image/Ultimative Entwirrungsbürste für lockiges und Coily Haar _ Nass & Trocken Verwendung _ Haarwerkzeug für 1A-4C Texturen _ BillioNoire Schönheit.jpeg" 
   },
   { 
     name: "Heat Protectant", 
-    price: "22.00", 
+    price: "22,000.00", 
     image: "/image/Little Joys in Daily Care…Heat Protection Hair Spray.jpeg" 
   },
 ];

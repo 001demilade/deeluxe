@@ -23,7 +23,7 @@ export default function Hero() {
 
         <div className="relative aspect-[4/5] rounded-[2rem] overflow-hidden border border-white/10">
           <img 
-            src="/image/emmanuel-black-k67WeAaMZAE-unsplash.jpg" 
+            src="/image/Pre-plugged wigs $109 in stock shop today….jpeg" 
             alt="Veloura Model" 
             className="object-cover w-full h-full grayscale hover:grayscale-0 transition-all duration-1000"
           />

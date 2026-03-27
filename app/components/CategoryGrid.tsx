@@ -1,8 +1,8 @@
 // components/CategoryGrid.tsx
 const categories = [
   { title: "Ready To Go", img: "/image/Jay Light Yaki Human Hair Wig Face Framing Wavy Hair - Small 21_5in _ 16 _ Cappuccino.jpeg" },
-  { title: "Glueless", img: "/image/emmanuel-black--Rca_idmbuI-unsplash.jpg" },
-  { title: "HD Lace", img: "/image/STELLA Raw Hair HD Lace Wig - 16 inches _ M _ Closure 5x5.jpeg" },
+  { title: "Glueless", img: "/image/Yay or Nay_ Would you rock a customized widow’s….jpeg" },
+  { title: "HD Lace", img: "/image/Lil Realistic Hairline Gaze For Your TL 💕 All….jpeg" },
   { title: "Hair Extension", img: "/image/Do you want hair that feels as good as it looks_….jpeg" },
   { title: "Short Wigs", img: "/image/Tu veux une perruque élégante, facile à porter et….jpeg" },
   { title: "Colored", img: "/image/Layered wavy 😍  unit available for immediate….jpeg" },

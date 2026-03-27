@@ -8,7 +8,7 @@ export default function AboutSection() {
           <div className="absolute -top-10 -left-10 w-64 h-64 bg-[#D1A2B5]/10 rounded-full blur-3xl" />
           <div className="relative z-10 border-[15px] border-white shadow-2xl rotate-2 hover:rotate-0 transition-transform duration-700">
             <img 
-              src="/image/praise-judah-Gz6z5NDnYfI-unsplash.jpg" 
+              src="/image/Want Quality Human Hair DIRECT form source factory_ - https___payhip_com_b_6Gj2n.jpeg" 
               alt="About Deeluxe" 
               className="w-full h-auto object-cover"
             />
